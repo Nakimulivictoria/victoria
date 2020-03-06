@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="tee.css">
+
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <img src="torie.jpg" class="torie" id="img">
+    </div>
+    <button id="show">show</button><button id="hide">hide</button>
+    
+    <script type="text/javascript">
+    let image=document.getElementById('img');
+    let see=document.getElementById('show');
+    let hid=document.getElementById('hide');
+
+    hid.onclick= function(){
+        image.style.display="none"
+    }
+
+    see.onclick= function(){
+        image.style.display="block"
+    }
+
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,101 @@
+.main{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 100px;
+  }
+  
+  
+  body{
+      padding:0;
+      margin:0;
+      }
+      
+    
+      .shape{
+      width:500px;
+      height:500px;
+      background-color:rgb(75, 112, 192);
+      border-radius:; 
+      color:white;
+      text-align: center;
+      padding-top:50px;
+      background:url(icon3.jpg);
+      
+      
+      }
+      .right{
+          width:500px;
+          height:500px;
+          background-color:;
+          border-radius:50px; 
+        padding-left: 140px;
+          padding-top: 50px;
+          
+  
+  }   
+  P {padding-left: 4px;padding-top: 4px; font-size: 18px;
+  }          
+      
+  
+    .login-box input[type="submit"]
+    {
+      width: 90%;
+      height: 40px;
+      background: rgb(66, 66, 207);
+      color:#fff;
+      font-size: 18px;
+      border-radius: 20px;
+    }
+  
+      .login-box input[type="submit"]:hover
+      {
+      cursor:pointer;
+      background:rgb(109, 109, 240);
+      color:#000;
+      }
+     .login-box a{
+     text-decoration:none;
+     font-size: 14px;
+     color:#fff;
+     }
+    
+  
+     .login-box input[type="button"]
+     {
+       width: 90%;
+       height: 40px;
+       background:;
+       color:blue;
+       font-size: 18px;
+       border-radius: 20px;
+     }
+       .login-box input[type="button"]:hover
+       {
+       cursor:pointer;
+       background:rgb(109, 109, 240);
+       color:#000;
+       }
+      .login-box a{
+      text-decoration:none;
+      font-size: 14px;
+      color:#fff;
+      }
+  
+      .twitter{
+        width: 30px;
+        height: 0 auto;
+        align-self: left;
+                  
+   } 
+   .torie{
+     text-align: left;
+     padding-left: 50px;
+   }
+    
+  h5{
+    text-indent: 180px;
+  }
+  .name input[type="button"]:hover
+  {
+    border-radius: 5px;
+  }

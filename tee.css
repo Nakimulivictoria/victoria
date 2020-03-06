@@ -1,0 +1,126 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background: black;
+}
+.main{
+    background-color: maroon;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+
+}
+ol{
+    display: flex;
+    list-style-type: none;
+}
+
+li{
+    padding-right: 10px;
+}
+.line{
+    background-color: orangered;
+    color: orangered;
+}
+.rectangle{
+    background-color: rgb(70, 16, 16);
+    
+}
+.content{
+    padding-top: 50px;
+    padding-left: 450px;
+    color: white;
+    border-color: white;
+    
+
+}
+input[type=text]{
+    width: 60%;
+    height: 40px;
+    padding-left: 6px;
+    
+    font-size: 15px;
+    border-radius: 25px;
+    
+}
+
+input[type=password]{
+    width: 60%;
+    height: 40px;
+    padding-left: 6px;
+    
+    font-size: 15px;
+    border-radius: 25px;
+    
+}
+.password1{
+    color: red;
+    padding-left: 20px;
+}
+input[type=submit]{
+    width: 10%;
+    height: 30px;
+    color: white;
+    font-size: 18px;
+    border-radius: 20px;
+    background-color: red;
+    border-color: red;
+}
+input[type=button]{
+    width: 95%;
+    height: 30px;
+    color: white;
+    font-size:18px;
+    background-color:red;
+    border-radius: 20px;
+    border-color: red; 
+
+}
+.main2{
+   
+    color: white;
+    display: flex;
+    
+
+}
+ol{
+    display: flex;
+    list-style-type: none;
+}
+
+li{
+    padding-right: 40px;
+}
+.master1{
+    color: red;
+    font-style: italic;
+
+    
+    
+   
+}
+
+.master{
+    color: red;
+    padding-top: 20px;
+    font-size:large;
+    font-style: italic;
+    
+}
+.appstore{
+    width: 25%;
+    height: 40PX;
+    padding-left: 100PX;
+}
+.left{
+    font-size: x-large;
+    padding-bottom: 20px;
+}
+.right{
+    color: white;
+}
+.torie{
+    width: 500px;
+    height: 500px;
+    padding-left: 300px;
+}
